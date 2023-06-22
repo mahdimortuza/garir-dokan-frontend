@@ -1,0 +1,439 @@
+[
+    {
+        "service_id": "04",
+        "title": "Lambo 808",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/11.png",
+        "price": "300.00",
+        "category": "sport",
+        "rating": "4.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "100",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "05",
+        "title": "Ferriri",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/10.png",
+        "price": "520.00",
+        "category": "sport",
+        "rating": "4.0",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "658",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "01",
+        "title": "Supra MK-5",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/1%20(2).png",
+        "price": "1200.00",
+        "category": "sport",
+        "rating": "5.00",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "0",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "03",
+        "title": "GTR Skyline R-34",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/28.png",
+        "price": "350.00",
+        "category": "sport",
+        "rating": "4.3",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "3",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "06",
+        "title": "GTR R-35",
+        "category": "sport",
+        "rating": "4.2",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "960",
+
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/26.png",
+        "price": "500.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "07",
+        "title": "Monstar",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/25.png",
+        "price": "700.00",
+        "category": "truck",
+        "rating": "5.00",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "30",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    
+    {
+        "service_id": "09",
+        "title": "Devil 65",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/24.png",
+        "price": "900.00",
+        "category": "truck",
+        "rating": "4.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "390",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    
+    {
+        "service_id": "11",
+        "title": "Supra Funny",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/5%20(2).png",
+        "price": "1100.00",
+        "category": "mini-car",
+        "rating": "3.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "30",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "12",
+        "title": "Sky Rocket",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/4%20(2).png",
+        "price": "1200.00",
+        "category": "mini-car",
+        "rating": "4.7",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "365",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "13",
+        "title": "Dragon minn",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/30.png",
+        "price": "1300.00",
+        "category": "mini-car",
+        "rating": "5.00",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "850",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "14",
+        "title": "Optimus",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/29.png",
+        "price": "1400.00",
+        "category": "truck",
+        "rating": "4.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "30",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "15",
+        "title": "Mini r",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/3%20(2).png",
+        "price": "1500.00",
+        "category": "mini-car",
+        "rating": "2.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "560",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "16",
+        "title": "Valks Wagon",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/12.png",
+        "price": "1600.00",
+        "category": "mini-car",
+        "rating": "4.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "40",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+
+    {
+        "service_id": "21",
+        "title": "Truck",
+        "img": "https://raw.githubusercontent.com/mahdimortuza/project-img/main/still/2%20(2).png",
+        "price": "2100.00",
+        "category": "truck",
+        "rating": "4.5",
+        "email": "xyz@gmail.com",
+        "name": "Abu Bakar",
+        "qty": "30",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    }
+]
